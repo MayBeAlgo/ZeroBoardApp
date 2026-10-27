@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🧩 ZeroBoard
 
 ### A Real-Time Collaborative LAN Whiteboard with AI-Powered Chat Summarization
@@ -11,7 +11,7 @@ summaries.*
 ![Networking](https://img.shields.io/badge/Networking-TCP%20Sockets-green)
 ![AI](https://img.shields.io/badge/AI-Gemini%20API-purple)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-yellow)
-:::
+
 
 ------------------------------------------------------------------------
 
